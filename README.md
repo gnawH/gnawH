@@ -1,7 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
+
 <p>Welcome to my page! </br> I'm <b>Hwang</b>, Semi-Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/5111/5111586.png" width="13"/> <b>Seoul, South Korea</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/5111/5111586.png" width="13"/> <b>Gangwon, South Korea</b>. </p>
+
 
 
 <h2>Languages and Tools</h2>
@@ -26,3 +28,5 @@
 </p>
 
 
+
+<h2>Works</h2>
