@@ -14,7 +14,6 @@
   <img alt="Css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40"/>
   <img alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
   <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40"/>
-  <img alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="40"/>
   <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/>
   <img alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/>
   <img alt="OpenCV" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40"/>
@@ -23,8 +22,6 @@
   <img alt="Oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="40"/>
   <img alt="Mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40"/>
   <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40"/>
-  <img alt="Flutter" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="40"/>
-  <img alt="Dart" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" height="40"/>
 </p>
 
 
