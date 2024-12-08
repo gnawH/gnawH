@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from South Korea</h3>
 
 <div align="center">
-  <a href="mailto:sun30126331@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-sun30126331%40gmail.com-red?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:sun30126331@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-sun30126331%40gmail.com-red?logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
 
