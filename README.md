@@ -1,5 +1,5 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
+<h1 align="center">Hello World 👋, I'm <a href="https://platinum-lentil-623.notion.site/RESUME-12881ee5923e803e85adf060d5de1082?pvs=4">Hwang!</a></h1>
+<h3 align="center">A passionate Software Engineer from South Korea</h3>
 
 
 <p>Welcome to my page! </br> I'm <b>Hwang</b>, Semi-Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/5111/5111586.png" width="13"/> <b>Seoul, South Korea</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/5111/5111586.png" width="13"/> <b>Gangwon, South Korea</b>. </p>
