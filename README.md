@@ -1,5 +1,9 @@
-<h1 align="center">Hello World 👋, I'm <a href="https://platinum-lentil-623.notion.site/RESUME-12881ee5923e803e85adf060d5de1082?pvs=4">Hwang!</a></h1>
+<h1 align="center">Hello World 👋, I'm <a href="">Hwang!</a></h1>
 <h3 align="center">A passionate Software Engineer from South Korea</h3>
+
+<div align="center">
+  <a href="mailto:sun30126331@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-sun30126331%40gmail.com-red?logo=gmail&logoColor=white" alt="Email"></a>
+</div>
 
 
 <p>Welcome to my page! </br> I'm <b>Hwang</b>, Semi-Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/5111/5111586.png" width="13"/> <b>Seoul, South Korea</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/5111/5111586.png" width="13"/> <b>Gangwon, South Korea</b>. </p>
