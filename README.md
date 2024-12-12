@@ -1,38 +1,55 @@
 <h1 align="center">Hello World 👋, I'm <a href="">Hwang!</a></h1>
 <h3 align="center">A passionate Software Engineer from South Korea</h3>
 
+
 <div align="center">
-  <a href="mailto:sun30126331@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-sun30126331%40gmail.com-red?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:sun30126331@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-sun30126331%40gmail.com-red?logo=gmail&logoColor=white" height="25" alt="Email"/></a>
 </div>
 
-## 🛠 Tech Stack
+
+## ⚔ Skill
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=Expo&logoColor=white"/> <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=white"/><br>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/><br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/><br>
+
+
+<br>
+
 
 ## 🏆 Prize
 
+<div align="center">
+
+  | 날짜 | 대회명 | 수상 | 주최 / 주관 |
+  | - | - | :-: | - |
+  |  `2024.11` | 2024 MIRACLE 창업동아리 경진대회 | 🥇 **1위** | LINC 3.0 |
+
+</div>
+
+
+<br>
+
+
 ## 🔥 Experience
 
-<p>Welcome to my page! </br> I'm <b>Hwang</b>, Semi-Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/5111/5111586.png" width="13"/> <b>Seoul, South Korea</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/5111/5111586.png" width="13"/> <b>Gangwon, South Korea</b>. </p>
+<div align="center">
+
+  | 기간 | 활동명 | 내용 | 주최 / 주관 |
+  | - | - | :-: | - |
+  |  `2024.11` | ICT 우수교육생 글로벌 인공지능 기술 해외연수 (시드니) | 수료 | ICT 이노베이션스퀘어 |
+  |  `2024.10 ~` | 컴퓨터 비전 교과목 조교 | 수업 조교 | 강원 LRS 공유대학 |
+  |  `2024.03 ~` | [CodeWhite] IT 창업동아리 운영 | 회장 | LINC 3.0 |
+  |  `2024.01 ~ 2024.02` | AI Academy 고급과정 | 수료 | 동북 ICT 이노베이션스퀘어 |
+  |  `2023.12 ~ 2024.01` | MIRACLE 동계 글로벌 리더십 프로그램 (플로리다) | 수료 | LINC 3.0 |
+
+</div>
 
 
-
-<h2>Languages and Tools</h2>
-<p>
-  <img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" />
-  <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/> 
-  <img alt="Html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40"/>
-  <img alt="Css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40"/>
-  <img alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
-  <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40"/>
-  <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/>
-  <img alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/>
-  <img alt="OpenCV" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40"/>
-  <img alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="40"/>
-  <img alt="Tenserflow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40"/>
-  <img alt="Oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="40"/>
-  <img alt="Mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40"/>
-  <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40"/>
-</p>
+<br>
 
 
+## 🛠 Tool
 
-<h2>Works</h2>
