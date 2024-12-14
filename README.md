@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello World 👋, I'm <a href="">Hwang!</a></h1>
-<h3 align="center">A passionate Software Engineer from South Korea</h3>
+<h3 align="center">A passionate Software Developer from South Korea</h3>
 
 
 <div align="center">
